@@ -1,0 +1,439 @@
+"site_id","store_domain","store_name","must_path","img_url","favicon","pattern","currency","currency_symbol","return_link","pg_init_sel","price_selector","oos_selector","title_selector","image_selector","pg_append_selector","pg_button_css","pg_popup_css","pw_append_selector","prod_data_sel","pw_button_css","graph_css","active","deals_active","coupon_store_id"
+"1","flipkart.com","flipkart","^https?:\/\/(?:www\.)?flipkart\.com","https://cdn2.flipshope.com/assets/1673334493062.png","https://www.google.com/s2/favicons?sz=64&domain=flipkart.com","{""isRemoveQuery"": false, ""splitOn"": ""pid="", ""index"": -1, ""subSplit"": ""&"", ""subIndex"": 0}","₹","INR","https://www.flipkart.com/p/p/item?pid=${PID}",".Nx9bqj.CxhGGd,.hZ3P6w.bnqy13,.v1zwn21j.v1zwn20",".Nx9bqj.CxhGGd,.hZ3P6w.bnqy13,.v1zwn21j.v1zwn20,.v1zwn21k.v1zwn20",".Z8JjpR"," .VU-ZEz,.LMizgS,._1psv1ze2i .v1zwn21j.v1zwn26,._1psv1zeb9._1psv1ze0 ._1psv1ze0 ._1psv1zeb9._1psv1ze0._1psv1ze2i",".jLEJ7H,.utBuJY,.DByuf4.IZexXJ,.UCc1lI.xD43kG,.RXQuYa img,._1psv1ze36 ._1o6mltljo img",".QiMO5r","display: flex; justify-content: left; align-items: center;",,"._1BweB8","{
+	""title"": "".VU-ZEz,.LMizgS,._1psv1ze2i .v1zwn21j.v1zwn26,._1psv1zeb9._1psv1ze0 ._1psv1ze0 ._1psv1zeb9._1psv1ze0._1psv1ze2i"",
+	""price"": "".Nx9bqj.CxhGGd,.hZ3P6w.bnqy13,.v1zwn21j.v1zwn20,.v1zwn21k.v1zwn20"",
+	""ratting"": "".XQDdHH._1Quie7,.XQDdHH:eq(0)"",
+	""description"": ""._4gvKMe"",
+	""num_rattings"": "".Wphh3N span, .Wphh3N:eq(0)"",
+	""num_reviews"": "".Wphh3N span, .Wphh3N:eq(0)"",
+	""imgurl"": ""._1psv1ze36 ._1o6mltljo img.getattr('src')"",
+        ""all_imgurls"":""._1psv1ze36 ._1o6mltljo img"",
+	""cat"": ""._7dPnhA"",
+	""brand"": "".mEh187"",
+	""mrp"": "".yRaY8j:eq(0),.v1zwn21l.v1zwn21""
+}",".row.nikxH8","top:1px; left:1px;","1","1","paflidwzpp"
+"2","amazon.in","amazon","^https?:\/\/(?:www\.)?amazon\.in","https://cdn.hyyzo.com/images/file1636461644055amazonlogo.png","https://www.google.com/s2/favicons?sz=64&domain=amazon.in","{""isRemoveQuery"": true, ""splitOn"": [""/dp/"", ""/product/"", ""/offer-listing/""], ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0}","₹","INR","https://www.amazon.in/dp/${PID}","#ebooksProductTitle, #ProductTitle, #productTitle",".a-button-selected .a-color-price .twisterSwatchPrice, .a-button-selected .a-color-price, #corePriceDisplay_desktop_feature_div .a-price.priceToPay .a-price-whole, #corePrice_desktop .priceblock_vat_inc_price .a-price[data-a-color='price']:not('.a-size-small') .a-offscreen, #corePrice_desktop :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-span12.a-color-price.a-size-base .a-color-price) > :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-size-small).a-price[data-a-color='price'] .a-offscreen",".a-section.a-spacing-small.a-text-center, .a-section.a-spacing-base.a-spacing-top-micro","#productTitle","#imgTagWrapperId img","#price, #corePrice_desktop, #apex_desktop","display: flex; justify-content: left; align-items: center;",,"#main-image-container1","{
+  ""title"": ""#productTitle"",
+  ""price"": "".a-button-selected .a-color-price .twisterSwatchPrice, .a-button-selected .a-color-price, #corePriceDisplay_desktop_feature_div .a-price.priceToPay .a-price-whole, #corePrice_desktop .priceblock_vat_inc_price .a-price[data-a-color='price']:not('.a-size-small') .a-offscreen, #corePrice_desktop :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-span12.a-color-price.a-size-base .a-color-price) > :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-size-small).a-price[data-a-color='price'] .a-offscreen"",
+""all_imgurls"":"".a-spacing-small.item.imageThumbnail.a-declarative img"",
+  ""ratting"": "".a-popover-trigger.a-declarative .a-size-base.a-color-base,#averageCustomerReviews .a-icon-star"",
+  ""description"": ""#productDescription"",
+  ""num_rattings"": ""#acrCustomerReviewText"",
+  ""imgurl"": ""#imgTagWrapperId img.getattr('src'),.a-dynamic-image.a-stretch-vertical img.getattr('src'),#imgBlkFront img.getattr('src')"",
+  ""cat"": "".a-unordered-list.a-horizontal.a-size-small"",
+  ""brand"": "".brand-snapshot-flex-row .a-size-medium.a-text-bold:eq(0), .po-brand .a-size-base.po-break-word:eq(0),.a-unordered-list.a-nostyle.a-vertical.a-spacing-none.detail-bullet-list .a-list-item:eq(2) span:eq(1)"",
+  ""mrp"": "".basisPrice .a-price.a-text-price .a-offscreen,.a-size-small.a-color-secondary.aok-align-center.basisPrice .a-price.a-text-price .a-offscreen:eq(0), .a-size-base.a-color-secondary .a-price.a-text-price .a-offscreen:eq(0)"",
+  ""color"": "".po-color .a-size-base.po-break-word:eq(0),#variation_color_name .selection""
+}","#ppd, #hover-zoom-end","bottom:10px; right:5px;","1","1","whamalijoo"
+"3","shopclues.com","shopclues","^https?:\/\/(?:www\.)?shopclues\.com","https://cdn2.flipshope.com/assets/1675766081702.png","https://www.google.com/s2/favicons?sz=64&domain=shopclues.com","{""isRemoveQuery"": false, ""splitOn"": "".htm"", ""index"": 0, ""subSplit"": ""/"", ""subIndex"": -1, ""append"": "".html""}","₹","INR","https://bazaar.shopclues.com/${PID}.html",".f_price",".f_price",,".prd_mid_info h1","#thumblist img",,,,".prd_img_gallery","{ ""title"":"".prd_mid_info h1"",""price"":"".f_price"",""ratting"":"".prd_ratings span[itemprop='ratingValue']"",""imgurl"":""#thumblist img.getattr('src')"",""description"":"".pd_tabs.pd_data.active"",""num_rattings"":"".rating_num"",""num_reviews"":""#scrolltoreview"",""mrp"":""#sec_list_price_"",""cat"":"".breadcrums""}",,NULL,"1","0","xlshojvsee"
+"4","snapdeal.com","snapdeal","^https?:\/\/(?:www\.)?snapdeal\.com","https://cdn2.flipshope.com/assets/file1676960995580Snapdeal20230221114557280.jpg","https://www.google.com/s2/favicons?sz=64&domain=snapdeal.com","{""isRemoveQuery"": true, ""splitOn"": ""/product/"", ""index"": -1, ""subSplit"": ""/"", ""subIndex"": -1, ""parseInt"": true}","₹","INR","https://www.snapdeal.com/product/p/${PID}",".payBlkBig",".payBlkBig",".sold-out-err",".pdp-e-i-head","img.cloudzoom",,"margin-bottom: 10px;",,".left-imagepanel","{
+	""title"": "".pdp-e-i-head"",
+	""imgurl"": "".clearfix.height-inherit img.getattr('src')"",
+         ""all_imgurls"":"".bx-viewport ul li img"",
+	""price"": "".pdp-final-price"",
+	""cat"": "".pdp-e-i-head"",
+	""brand"": "".col-xs-8 a i[itemprop='name']"",
+	""ratting"": "".avrg-rating,.rating-text .rating"",
+	""description"": "".spec-body.specifications .detailssubbox"",
+	""num_rattings"": "".total-rating.showRatingTooltip"",
+	""num_reviews"": "".total-review-txt"",
+	""mrp"": "".pdp-e-i-PAY-r.disp-table-cell.lfloat .pdpCutPrice""
+}",,NULL,"1","0","nssnaoyypp"
+"5","jiomart.com","jiomart","^https?:\/\/(?:www\.)?jiomart\.com","https://cdn2.flipshope.com/assets/1682487734858.jpeg","https://www.google.com/s2/favicons?sz=64&domain=jiomart.com","{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 2}","₹","INR","https://www.jiomart.com/search/${PID}",".jm-heading-xs.jm-ml-xxs",".jm-heading-xs.jm-ml-xxs",,".product-header-name.jm-mb-xs.jm-body-m-bold",".swiper-thumb-slides-img.lazyautosizes.lazyloaded",,"margin: 10px 0;",,".pwO4","{
+ ""title"":"".product-header-name.jm-mb-xs.jm-body-m-bold"",""price"":"".jm-heading-xs.jm-ml-xxs"",
+""all_imgurls"":"".figure img"",
+""mrp"":"".jm-body-s.jm-fc-primary-grey-80 span.line-through"",
+""ratting"":""#average"",
+""description"":""#pdp_description div"",""brand"":"".product-header-brand-text "",""cat"":"".jm-breadcrumbs.breadcrumbs-container"",""imgurl"":"".swiper-thumb-slides-img.lazyautosizes.lazyloaded.getattr('src')"",
+""num_rattings"":"".review-count.jm-body-m-bold.jm-fc-primary-60.jm-pl-xs""}",,NULL,"1","1","pxaosjytpv"
+"6","tatacliq.com","tatacliq","^https?:\/\/(?:www\.)?tatacliq\.com","https://cdn2.flipshope.com/assets/file1676960484312tatacliq20230221114508049.jpg","https://www.google.com/s2/favicons?sz=64&domain=tatacliq.com","{""isRemoveQuery"": true, ""splitOn"": ""/p-"", ""index"": -1}","₹","INR","https://www.tatacliq.com/p/p-${PID}","[itemprop=""offers""]","[itemprop=""offers""] h3",".ProductDescriptionPage__notifyMeWrapper","[itemprop=""name""] h1",".ProductGalleryDesktopUpdated__images,
+.ProductGalleryDesktop__image img,
+.Image__actual",,"margin-bottom: 10px; margin-top: -5px;",,".bjKfRPm1O2i2fF7Jgw50N","{
+	""title"": "".ProductDetailsMainCard__productDescriptionSection .ProductDetailsMainCard__linkName .ProductDetailsMainCard__productName"",
+	""imgurl"": "".ProductGalleryDesktopUpdated__images, .ProductGalleryDesktop__image.getattr('src')"",
+""all_imgurls"":"".ProductGalleryDesktopUpdated__content img"",
+	""price"": "".ProductDetailsMainCard__productPriceSection .ProductDetailsMainCard__priceAndDiscountSection .ProductDetailsMainCard__price h3"",
+	""cat"": "".ProductDescriptionPage__genericName .ProductDescriptionPage__manufacturerDetailsBoldText"",
+	""brand"": "".ProductDetailsMainCard__productDescriptionSection .ProductDetailsMainCard__brandName"",
+	""ratting"": "".ProductDetailsMainCard__reviewElectronics"",
+	""description"": "".Accordion__base"",
+	""num_rattings"": "".ProductDetailsMainCard__ratingLabel"",
+""num_reviews"": "".ProductDetailsMainCard__labelText .ProductDetailsMainCard__ratingLabel:eq(1)"",
+	""mrp"": "".ProductDetailsMainCard__priceAndDiscountSection .ProductDetailsMainCard__priceCancelled.ProductDetailsMainCard__discountPrice .ProductDetailsMainCard__cancelPrice""
+}",,NULL,"1","1","botatvpboo"
+"7","myntra.com","myntra","^https?:\/\/(?:www\.)?myntra\.com","https://cdn2.flipshope.com/assets/file1676960315643myntra120230221114455686.jpg","https://www.google.com/s2/favicons?sz=64&domain=myntra.com","[{""isRemoveQuery"": true, ""splitOn"": ""/buy"", ""index"": 0, ""subSplit"": ""/"", ""subIndex"": -1, ""parseInt"": true},{""isRemoveQuery"": true, ""splitOn"": ""/"", ""index"": -1,""parseInt"": true},{""isRemoveQuery"": false, ""splitOn"": ""/buy"", ""index"": 0, ""subSplit"": ""/"", ""subIndex"": -1, ""parseInt"": true}]","₹","INR","https://www.myntra.com/product/p/p/${PID}/buy",".pdp-price",".pdp-price strong",".pdp-add-to-bag.pdp-button.pdp-flex.pdp-center.pdp-out-of-stock ",".pdp-name",".image-grid-image",".pdp-discount-container","display: flex; justify-content: left; align-items: center;",".arrow-top {left: 350px;} #wp-container { transform: translateX(-300px);}",".image-grid-container .image-grid-col50","{
+	""title"": "".pdp-price-info .pdp-name"",
+	""price"": "".pdp-price strong"",
+	""ratting"": "".index-flexRow.index-averageRating span"",
+         ""all_imgurls"":"".image-grid-imageContainer .image-grid-image.getattr('style')"",
+	""description"": "".pdp-productDescriptorsContainer"",
+	""num_rattings"": "".index-ratingsCount"",
+	""num_reviews"": "".detailed-reviews-allReviews"",
+	""imgurl"": "".image-grid-image.getattr('style')"",
+	""cat"": "".index-rowValue:eq(0)"",
+	""brand"": "".pdp-title"",
+	""mrp"": "".pdp-discount-container .pdp-mrp s""
+}",".SelectedSizeSellerInfo-sellerInfoContainer,.pincode-deliveryContainer",NULL,"1","1","mpmynkgrjj"
+"8","nykaa.com","nykaa","^https?:\/\/(?:www\.)?nykaa\.com","https://cdn2.flipshope.com/assets/file1676960862661Nykaa20230221114519529.jpg","https://www.google.com/s2/favicons?sz=64&domain=nykaa.com","{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0}","₹","INR","https://www.nykaa.com/p/p/${PID}?productId=${PID}",".css-1jczs19",".css-1jczs19,.css-1jczs19:eq(0)",".css-16e24hp",".css-5dyx2i .css-1d5wdox h1",".css-5n0nl4 img",,"margin-bottom:10px;",,".css-ov1ktg","{
+	""title"": "".css-5dyx2i .css-1d5wdox h1"",
+	""price"": "".css-1jczs19,.css-1jczs19:eq(0)"",
+	""ratting"": "".css-m6n3ou,.css-u2f8dr .css-1hvvm95:eq(0)"",
+         ""num_rattings"":"".css-1eip5u4,.css-1eip5u4"",
+	""description"": "".css-h136hv .css-98gl1e"",
+	""num_reviews"": "".css-1eip5u4,.css-1eip5u4 .css-1hvvm95:eq(2)"",
+	""imgurl"": "".css-14y2xde .productSelectedImage.css-eyk94w .css-5n0nl4 div img.getattr('src')"",
+	""cat"": "".css-16kpx0l .last-list.css-hnjjmz"",
+	""brand"": "".css-5dyx2i .css-1d5wdox h1"",
+	""mrp"": "".css-u05rr span:nth-child(1)""
+}",,NULL,"1","0","eunykgoi"
+"9","ajio.com","ajio","^https?:\/\/(?:www\.)?ajio\.com","https://cdn2.flipshope.com/assets/file1676960572216ajio20230221114513873.jpg","https://www.google.com/s2/favicons?sz=64&domain=ajio.com","{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0}","₹","INR","https://www.ajio.com/p/${PID}",".prod-price-section .prod-sp",".prod-price-section .prod-sp",".oos-heading",".prod-name","#main-content .slick-slide img",".prod-price-section","display: flex; justify-content: center; align-items: center;",".arrow-top {left: 400px;} #wp-container { transform: translateX(-350px);}",".img-mv-left","{
+	""title"": "".prod-container .col-4 .prod-content .prod-name"",
+	""price"": "".prod-content .prod-price-section .prod-sp"",
+	""description"": "".prod-desc .prod-list"",
+	""imgurl"": "".slick-track .slick-slide .img-container img.getattr('src')"",
+         ""all_imgurls"":"".product-image-gallery .slick-slide.slick-active img"",
+	""cat"": "".prod-content .prod-name"",
+        ""ratting"":""._3c5q0"",
+        ""num_rattings"": ""._38RNg"",
+	""brand"": "".col-4 .prod-content .brand-name"",
+	""mrp"": "".prod-price-section .prod-price-sec .prod-cp""
+}",".prod-container",NULL,"1","1","shajiiiqkk"
+"10","pepperfry.com","pepperfry","^https?:\/\/(?:www\.)?pepperfry\.com","https://cdn2.flipshope.com/assets/file1676975119634pepperfry20230221114641625.jpg","https://www.google.com/s2/favicons?sz=64&domain=pepperfry.com","{""isRemoveQuery"": true, ""splitOn"": "".html"", ""index"": 0, ""subSplit"": ""-"", ""subIndex"": -1, ""parseInt"": true}","₹","INR","https://www.pepperfry.com/site_product/search?q=${PID}","span.text-xxl.font-bold.ng-tns-c175-1,.text-xxl.font-bold.ng-tns-c181-1",".text-xxl.font-bold.ng-tns-c176-1,span.text-xxl.font-bold.ng-tns-c175-1,.row.middle-xs.color-tertiary span ,
+.row.ng-star-inserted .pf-col.xs-8.sm-9 .row.middle-xs:eq(1),
+.vipPrice span[data-price],
+.price-amount.text-xl.font-bold,
+.text-xxl.font-bold.ng-tns-c159-1,
+.text-xxl.font-bold.ng-tns-c178-1,.text-xxl.font-bold.ng-tns-c180-1,.text-xxl.font-bold.ng-tns-c181-1",".vip-notify-btn.button-outlined-black",".vip-product-title, .vip-product-name.text-lg.font-medium.marginBottom-4 .color-tertiary",".web-vip-thumb-each.vip-center-icon img,.vipImage__big a img,
+.web-vip-thumb-images.ng-tns-c158-0 .ng-tns-c158-0,
+.web-vip-thumb-each.vip-center-icon.marginBottom-4.ng-tns-c164-0.web-vip-thumb-each-active.vip-product-10x11.ng-star-inserted .ng-tns-c164-0.ng-star-inserted",,"margin-bottom:10px;",,".vipSavings, .vipPrice span[data-price], .price-amount.text-xl.font-bold","{
+	""title"": "".vip-product-name.text-lg.font-medium.marginBottom-4 .color-tertiary"",
+	""price"": "".text-xxl.font-bold.ng-tns-c176-1,.text-xxl.font-bold.ng-tns-c175-1,.row.middle-xs.color-tertiary span , .row.ng-star-inserted .pf-col.xs-8.sm-9 .row.middle-xs:eq(1),.text-xxl.font-bold.ng-tns-c180-1,.text-xxl.font-bold.ng-tns-c181-1"",
+	""description"": "".ng-star-inserted .panel.panel-default.dropup:eq(1)"",
+	""ratting"": "".vip-product-rating.ng-star-inserted,.title.color-heading.paddingTop-12.marginBottom-12.ng-star-inserted"",
+        ""all_imgurls"":"".vip-image-gallery.marginBottom-32 .web-vip-thumb-images img"",
+	""imgurl"": "".web-vip-thumb-each.vip-center-icon img.getattr('src')"",
+	""cat"": "".breadcrumb-link.text-xs.color-secondary.font-medium.ng-star-inserted:eq(1)"",
+	""brand"": "".vip-product-info-container .vip-product-name span:eq(1)"",
+	""mrp"": "".text-lg.ng-tns-c176-1,.text-lg.ng-tns-c175-1,.pf-col.xs-8.sm-9.text-md .row.line-through.text-md.color-secondary.font-normal""
+}",,NULL,"1","1","tmpepwwmoo"
+"11","firstcry.com","firstcry","^https?:\/\/(?:www\.)?firstcry\.com","https://cdn2.flipshope.com/assets/file1676961239355firstcry20230221114625806.jpg","https://www.google.com/s2/favicons?sz=64&domain=firstcry.com","{""isRemoveQuery"": true, ""splitOn"": ""/product-detail"", ""index"": 0, ""subSplit"": ""/"", ""subIndex"": -1, ""parseInt"": true}","₹","INR","https://www.firstcry.com/p/p/${PID}/product-detail","#prod_price",".prod-price.J15B_42,.div-prod-price #prod_price",".in_pro_inner_1st","#prod_name,.h1-name","#slide-wrap img,#zommcon0",,,,".left-contr .prod-img","{
+	""title"": "".J14SB_42 span.J14R_42"",
+	""price"": "".prod-price.J15B_42"",
+	""description"": "".R14_61.p-prod-desc"",
+	""imgurl"": "".imgSlider_Wrap img.getattr('src')"",
+	""cat"": ""#breadcrumb"",
+	""brand"": "".R14_61.p-prod-desc p span:eq(2)"",
+	""mrp"": "".J14R_42 del,.pos-rel2stat.new-mrp-wrap .pmr.R20_75.pos-rel2stat"",
+""ratting"":"".J26B_42""
+
+}",,NULL,"1","0","bsfirxzskk"
+"12","nykaafashion.com","nykaafashion","^https?:\/\/(?:www\.)?nykaafashion\.com","https://cdn2.flipshope.com/assets/file1676961638156nykaafashion20230221120049857.jpg","https://www.google.com/s2/favicons?sz=64&domain=nykaafashion.com","{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0, ""parseInt"": true}","₹","INR","https://www.nykaafashion.com/p/p/${PID}",".css-1byl9fj",".css-1byl9fj",".notify-btn.css-yraz7b",".css-19qbs56 .css-0, .css-cmh3n9",".css-1i0306j img",,,,".css-lum4bw","{
+	""title"": "".css-cmh3n9"",
+	""price"": "".css-1byl9fj,css-1byl9fj,.css-hiaz4f .css-1byl9fj"",
+	""ratting"": "".css-16lwuc1 .css-xoezkq"",
+	""description"": "".css-tr45an .css-rreud0"",
+	""num_rattings"": "".css-kmkjrs,.css-lpjc58 .css-kmkjrs"",
+	""imgurl"": "".css-1i0306j img.getattr('src')"",
+	""cat"": "".css-zorlgh,.css-175ipe2 .css-cmh3n9"",
+	""brand"": "".css-175ipe2 .css-6mpq2k"",
+	""mrp"": "".css-5pw8k6""
+}",,NULL,"0","0","eunykgoj"
+"13","croma.com","croma","^https?:\/\/(?:www\.)?croma\.com","https://cdn2.flipshope.com/assets/file1676960416742chorme20230221114502646.jpg","https://www.google.com/s2/favicons?sz=64&domain=croma.com","{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0, ""parseInt"": true}","₹","INR","https://www.croma.com/p/p/${PID}",".new-price .amount",".new-price .amount",".not-available-color",".pd-title.pd-title-normal",".gallery-top .swiper-wrapper .swiper-slide.swiper-slide-active span img",,,,".col-md-6.sticky-inner.sticky-inner-pdp","{
+	""title"": "".pd-title.pd-title-normal"",
+	""price"": "".new-price .amount"",
+	""ratting"": "".cp-rating span,.totalRating"",
+""num_rattings"":"".pr-review.review-text"",
+         ""all_imgurls"":"".gallery-top .swiper-container.swiper-container-initialized.swiper-container-horizontal img.getattr('srcset')"",
+	""description"": "".cp-overview.pd-eligibility-wrap"",""imgurl"":"".gallery-top .swiper-wrapper .swiper-slide.swiper-slide-active span img.getattr('src')"",
+	""num_reviews"": "".pr-review.review-text"",
+	""mrp"": "".cp-price.discount .old-price .amount""
+}",,NULL,"1","1","rucroupbjj"
+"14","reliancedigital.in","reliancedigital","^https?:\/\/(?:www\.)?reliancedigital\.in","https://cdn2.flipshope.com/assets/file1676975252113reliancedigital20230221114608231.jpg","https://www.google.com/s2/favicons?sz=64&domain=reliancedigital.in","{""isRemoveQuery"": true, ""splitOn"": ""/product/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0}","₹","INR","https://www.reliancedigital.in/product/${PID}",".product-price",".product-price",".ripple.pdp__noStockBlock__notifymeBtn.mt__20.btn__default.pointer",".product-name",".pdp-image.animated.fadeIn",,,,".pdp__offerPrice","{
+	""title"": "".product-name"",
+	""price"": "".product-price"",
+	""ratting"": "".rd-feedback-service-average-rating-total-count"",
+	""description"": "".product-long-description"",
+        ""num_rattings"":"".rd-feedback-service-jds-desk-body-s.rd-feedback-service-jds-color-grey-80"",
+	""num_reviews"": "".rd-feedback-service-jds-desk-body-s.rd-feedback-service-jds-color-grey-80"",
+	""imgurl"": "".pdp-image.animated.fadeIn.getattr('src')"",
+""all_imgurls"":"".image-gallery__list.scrollbar-hidden img"",
+	""mrp"": "".product-marked-price""
+}",,NULL,"1","1","wizrwvbrms"
+"15","meesho.com","meesho","^https?:\/\/(?:www\.)?meesho\.com","https://cdn2.flipshope.com/assets/1712649602462.png","https://www.google.com/s2/favicons?sz=64&domain=meesho.com","{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1}","₹","INR","https://www.meesho.com/q/p/${PID}",".ShippingInfoMobilestyles__PriceContainer-sc-b8wrmp-14 h4",".ShippingInfoMobilestyles__PriceContainer-sc-b8wrmp-14 h4",,".ShippingInfo__DetailCard-sc-frp12n-0 h1,.dKuTbW > span:first-child,h1.sc-eDvSVe.fhfLdV",".ProductDesktopImage__ImageWrapperDesktop-sc-8sgxcr-0 img",,,,,"{
+	""title"": "".ShippingInfo__DetailCard-sc-frp12n-0 h1,.dKuTbW > span:first-child"",
+	""price"": "".ShippingInfoMobilestyles__PriceContainer-sc-b8wrmp-14 h4"",
+        ""all_imgurls"":"".ProductCard__StyledCarousel-sc-camkhj-6 img"",
+	""ratting"": "".ShippingInfo__DetailCard-sc-frp12n-0 .sc-eDvSVe.laVOtN"",
+	""description"": "".ProductDescription__DetailsCardStyled-sc-1l1jg0i-0"",""imgurl"":"".ProductDesktopImage__ImageWrapperDesktop-sc-8sgxcr-0 .AvifImage__ImageWrapper-sc-1055enk-0.getattr('src')"",
+	""num_rattings"": "".ShippingInfo__OverlineStyled-sc-frp12n-4"",
+	""num_reviews"": "".ShippingInfo__OverlineStyled-sc-frp12n-4"",
+	""mrp"":"".sc-eDvSVe.gQDOBc.sc-jSUZER""	
+}",,NULL,"1","1","yaobqbudmt"
+"16","purplle.com","purplle","^https?:\/\/(?:www\.)?purplle\.com","https://cdn2.flipshope.com/assets/1673517531516.svg","https://www.google.com/s2/favicons?sz=64&domain=purplle.com","{""isRemoveQuery"": true, ""splitOn"": ""/product/"", ""index"": 1}","₹","INR","https://purplle.com/product/${PID}",".pricing.ng-star-inserted strong",".pricing.ng-star-inserted strong",".w-50.btn.btn-lg.btn-primary",".mb-3.fw-semibold.lh-base",".mw-100.h-auto.p-2.mb-2.border.ng-star-inserted",,,,,"{
+	""title"": "".mb-3.fw-semibold.lh-base"",
+	""price"": "".pricing.ng-star-inserted strong"",
+	""ratting"": "".ratings.ng-star-inserted strong"",""imgurl"":"".mw-100.h-auto.p-2.mb-2.border.ng-star-inserted.getattr('src')"",
+	""description"": "".inner-box.ng-star-inserted li.ng-star-inserted p"",""mrp"":"".actual-price.ng-star-inserted"",
+	""num_rattings"": "".user-rated-count.fw-normal"",
+	""num_reviews"": "".user-rated-count.fw-normal""
+	
+	
+}",,NULL,"1","0","qwpurkjmzz"
+"17","shopsy.in","shopsy","^https?:\/\/(?:www\.)?shopsy\.in","https://cdn2.flipshope.com/assets/1698928344866.png","https://www.google.com/s2/favicons?sz=64&domain=shopsy.in","{""isRemoveQuery"": false, ""splitOn"": ""pid="", ""index"": -1, ""subSplit"": ""&"", ""subIndex"": 0}","₹","INR","https://www.shopsy.in/p/p/p?pid=${PID}",".css-146c3p1.r-cqee49.r-1vgyyaa",".css-146c3p1.r-cqee49.r-1vgyyaa",,".css-146c3p1.r-cqee49 .css-1jxf684",".css-175oi2r.r-1awozwy.r-1jkafct img",,,,,"{
+	""title"": "".css-146c3p1.r-cqee49 .css-1jxf684"",
+	""price"": "".css-146c3p1.r-cqee49.r-1vgyyaa"",
+	""ratting"": "".ratings.ng-star-inserted strong"",""imgurl"":"".css-175oi2r.r-1awozwy.r-1jkafct img.getattr('src')"",
+	""description"": "".css-175oi2r.r-12gph82.r-5kkj8d"",
+	""num_rattings"": "".r-6koalj .css-146c3p1.r-dnmrzs"",
+	""num_reviews"": "".user-rated-count.fw-normal""
+	
+	
+}",,NULL,"1","0","zwepqksrwz"
+"18","sephora.me","Sephora","^https?:\/\/(?:www\.)?sephora\.me\/ae-[a-z-]+","https://cdn2.flipshope.com/assets/file1763621158144download1.png",NULL,"{""isRemoveQuery"":true,""splitOn"": ""/p/"",""index"": -1,""subSplit"": ""/"",
+    ""subIndex"": -1
+  }","AED","AED","https://www.sephora.me/ae-en/p/p/${PID}","p.font-semibold.text-xs","p.font-semibold.text-xs","script[type='application/ld+json'].match('""availability"":\s*""([^""]*OutOfStock[^""]*)""')",".mb-16.flex.flex-1.flex-col.items-start h1",".h-auto.object-cover.w-full.transition-opacity.duration-700.ease-in-out.opacity-100",NULL,NULL,NULL,NULL,"{
+""title"":"".mb-16.flex.flex-1.flex-col.items-start h1"",
+""price"":""p.font-semibold.text-xs"",
+""imgurl"":"".h-auto.object-cover.w-full.transition-opacity.duration-700.ease-in-out.opacity-100.getattr('src')"",
+""num_rattings"":"".mb-4.flex.w-full.justify-between .flex.flex-wrap.items-end p.font-medium.tracking-wide.translate-y-px:nth-child(1)"",
+""ratting"":"".mb-4.flex.w-full.justify-between .flex.flex-wrap.items-end p.font-medium.tracking-wide.translate-y-px"",
+""all_imgurls"":"".swiper-slide .relative.h-full.w-full.object-cover img""
+}",NULL,NULL,"1","0",NULL
+"19","swarovski.ae","swarovski","^https?:\/\/(?:www\.)?swarovski\.ae","https://cdn2.flipshope.com/assets/file1763621075796download.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/"", ""index"": -1, ""subSplit"": ""."", ""subIndex"": 0}","AED","AED","https://www.swarovski.ae/${PID}.html","h2 .value","h2 .value",NULL,".js-name.product-name",".product-image-default.img-fluid",NULL,NULL,NULL,NULL,"{
+	""title"": "".js-name.product-name"",
+	""price"": ""h2 .value"",
+        ""all_imgurls"":"".js-pdp-product-thumbnail-carousel-vertical .slick-list.draggable img"",
+	""ratting"": """",
+	""description"": "".product-description-wrapper p"",
+    ""imgurl"":"".product-image-default.img-fluid.getattr('src')"",
+	""num_rattings"": """",
+	""num_reviews"": """",
+	""mrp"":"".strike-through.d-block.list span""	
+}",NULL,NULL,"1","0",NULL
+"20","bloomingdales.ae","bloomingdales","^https?:\/\/(?:www\.)?bloomingdales\.ae","https://cdn2.flipshope.com/assets/file1763620861602download4.jpg",NULL,"{""isRemoveQuery"": true, ""splitOn"": "".html"", ""index"": 0, ""subSplit"": ""-"", ""subIndex"": -1}","AED","AED","https://bloomingdales.ae/${PID}.html",".blm-pdpmain__price.js-product-prices .blm-price__value",".blm-pdpmain__price.js-product-prices .blm-price__value",NULL,".blm-pdpmain__product-title.js-product-title","img.carousel__image.lz-image.lz-entered.lz-loaded",NULL,NULL,NULL,NULL,"{
+	""title"": "".blm-pdpmain__product-title.js-product-title"",
+	""price"": "".blm-pdpmain__price.js-product-prices .blm-price__value"",
+    ""all_imgurls"":"".carousel__image"",
+	""ratting"": """",
+	""description"": "".product-description-wrapper p"",
+    ""imgurl"":""img.carousel__image.lz-image.lz-entered.lz-loaded.getattr('src')"",
+	""num_rattings"": """",
+	""num_reviews"": """",
+	""mrp"":"".blm-pdpmain__price.js-product-prices .blm-price__content .blm-price__standard .blm-price__value""	
+}",NULL,NULL,"1","0",NULL
+"21","noon.com","Noon","^https?:\/\/(?:www\.)?noon\.com\/[a-z-]*","https://cdn2.flipshope.com/assets/1675341339895.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 0, ""subSplit"": ""/"", ""subIndex"": -1}","AED","AED","https://www.noon.com/uae-en/${PID}/p/",".PriceOfferV2-module-scss-module__dHtRPW__priceNowText",".PriceOfferV2-module-scss-module__dHtRPW__priceNowText",NULL,".ProductTitle-module-scss-module__EXiEUa__title",".MediaPreloader-module-scss-module__qIer4W__mediaContainer img",NULL,NULL,NULL,NULL,"{
+	""title"": "".ProductTitle-module-scss-module__EXiEUa__title"",
+	""price"": "".PriceOfferV2-module-scss-module__dHtRPW__priceNowText"",
+    ""mrp"":"".PriceOfferV2-module-scss-module__dHtRPW__priceNowText"",
+        ""imgurl"":"".MediaPreloader-module-scss-module__qIer4W__mediaContainer img.getattr('src')"",
+	""ratting"": """",
+	""description"": "".SectionWrapper-module-scss-module__3lhB-a__sectionCtr"",
+	""num_rattings"": """",
+	""num_reviews"": """",
+        ""all_imgurls"":"".GalleryV2-module-scss-module__hlK6zG__thumbnailElement img""
+}",NULL,NULL,"1","0",NULL
+"22","amazon.ae","amazon","^https?:\/\/(?:www\.)?amazon\.ae","https://cdn2.flipshope.com/assets/file1762229188840amazon3.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": [""/dp/"", ""/product/"", ""/offer-listing/""], ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0}","AED","AED","https://www.amazon.ae/dp/${PID}",".a-price.aok-align-center.priceToPay",".a-price.aok-align-center.priceToPay",NULL,".a-size-large.a-spacing-none","#landingImage",NULL,NULL,NULL,NULL,"{ 
+  ""currency"":"".a-price.aok-align-center.reinventPricePriceToPayMargin.priceToPay .a-price-symbol"",
+  ""title"": ""#productTitle"",
+  ""price"": "".a-price.aok-align-center.priceToPay,.a-button-selected .a-color-price .twisterSwatchPrice, .a-button-selected .a-color-price, #corePriceDisplay_desktop_feature_div .a-price.priceToPay .a-price-whole, #corePrice_desktop .priceblock_vat_inc_price .a-price[data-a-color='price']:not('.a-size-small') .a-offscreen, #corePrice_desktop :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-span12.a-color-price.a-size-base .a-color-price) > :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-size-small).a-price[data-a-color='price'] .a-offscreen"",
+  ""ratting"": "".a-popover-trigger.a-declarative .a-size-base.a-color-base,#averageCustomerReviews .a-icon-star"",
+  ""description"": ""#productDescription"",
+  ""num_rattings"": ""#acrCustomerReviewText"",
+  ""imgurl"": ""#imgTagWrapperId img.getattr('src'),.a-dynamic-image.a-stretch-vertical img.getattr('src'),#imgBlkFront img.getattr('src')"",
+  ""cat"": "".a-unordered-list.a-horizontal.a-size-small"",
+  ""brand"": "".brand-snapshot-flex-row .a-size-medium.a-text-bold:eq(0), .po-brand .a-size-base.po-break-word:eq(0),.a-unordered-list.a-nostyle.a-vertical.a-spacing-none.detail-bullet-list .a-list-item:eq(2) span:eq(1)"",
+  ""mrp"": "".basisPrice .a-price.a-text-price .a-offscreen,.a-size-small.a-color-secondary.aok-align-center.basisPrice .a-price.a-text-price .a-offscreen:eq(0), .a-size-base.a-color-secondary .a-price.a-text-price .a-offscreen:eq(0)"",
+  ""color"": "".po-color .a-size-base.po-break-word:eq(0),#variation_color_name .selection""
+}",NULL,NULL,"1","0",NULL
+"23","ounass.ae","ounass","^https?:\/\/(?:www\.)?ounass\.ae","https://cdn2.flipshope.com/assets/1762169665150.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""-"", ""index"": -1, ""subSplit"": ""."", ""subIndex"": 0}","AED","AED","https://www.ounass.ae/${PID}.html",".PriceContainer-price",".PriceContainer-price",NULL,".PDPDesktop-name span",".ImageGallery-imageButton source.getattr(""srcset"")",NULL,NULL,NULL,NULL,"{
+	""title"": "".PDPDesktop-name span"",
+	""price"": "".PriceContainer-price"",
+	""description"": ""#content-tab-panel-0"",
+    ""imgurl"":"".ImageGallery-imageButton source.getattr('srcset')""	
+}",NULL,NULL,"1","0",NULL
+"24","namshi.com","namshi","^https?:\/\/(?:www\.)?namshi\.com\/uae-[a-z-]+","https://cdn2.flipshope.com/assets/1762169386479.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 0, ""subSplit"": ""/"", ""subIndex"": -1}","AED","AED","https://www.namshi.com/uae-en/${PID}/p/",".ProductPrice_value__hnFSS",".ProductPrice_value__hnFSS",NULL,".ProductConversion_productTitle__dvlc5",".ProductImage_imageContainer__B5pcR img",NULL,NULL,NULL,NULL,"{
+	""title"": "".ProductConversion_productTitle__dvlc5"",
+	""price"": "".ProductPrice_value__hnFSS"",
+    ""all_imgurls"":"".ProductImage_imageContainer__B5pcR img"",
+	""ratting"": """",
+	""description"": ""#content-tab-panel-0"",
+    ""imgurl"":"".ProductImage_imageContainer__B5pcR img.getattr('src')"",
+	""num_rattings"": """",
+	""num_reviews"": """",
+	""mrp"":"".ProductPrice_preReductionPrice__S72wT.ProductPrice_xLarge__6DRdu""	
+}",NULL,NULL,"1","0",NULL
+"25","samsung.com","samsung uae","^https?:\/\/(?:www\.)?samsung\.com\/ae\/","https://cdn2.flipshope.com/assets/1674553520536.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/"", ""index"": 6, ""subSplit"": ""-"", ""subIndex"": -1}","AED","AED",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1","0",NULL
+"26","sharafdg.com","sharafdg","^https?:\/\/uae\.sharafdg\.com","https://cdn2.flipshope.com/assets/file1763620711999unnamed.jpg",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/product/"", ""index"": -1, ""subSplit"": ""/"", ""subIndex"": 0}","AED","AED",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1","0",NULL
+"27","letstango.com","letstango","^https?:\/\/(?:www\.)?letstango\.com","https://cdn2.flipshope.com/assets/1764066489032.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/products/"", ""index"": -1}","AED","AED","https://www.letstango.com/products/${PID}",".yv-product-price.h2",".yv-product-price.h2",NULL,".yv-product-detail-title",".yv-product-slider-item.gallery__slide-img.is-selected.is-nav-selected img.getattr('data-original')",NULL,NULL,NULL,NULL,"{
+	""title"": "".yv-product-detail-title"",
+	""price"": "".yv-product-price.h2"",
+    ""all_imgurls"":"".yv-product-slider-item.yv-product-image-item.big__slider.flickity-slider-item a.getattr('href')"",
+	
+	""description"": ""#content-tab-panel-0"",
+    ""imgurl"":"".yv-product-slider-item.yv-product-image-item.big__slider.flickity-slider-item a.getattr('href')""
+		
+}",NULL,NULL,"1","0",NULL
+"28","zepto.com","zepto","^https?:\/\/(?:www\.)?zepto\.com","https://cdn2.flipshope.com/assets/1677215486593.png",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/pvid/"", ""index"": -1}","₹","INR",NULL,".TvBIc",".TvBIc",NULL,".cp62rX",".relative.overflow-hidden.h-full.w-full",NULL,NULL,NULL,NULL,"{
+	""title"": "".cp62rX"",
+	""price"": "".TvBIc"",
+	""ratting"": "".FnCU0"",
+	""description"": "".__9M1qu"",
+    ""num_rattings"":"".u-flex.u-items-center.ti0_P > span"",
+	""imgurl"": "".relative.overflow-hidden.h-full.w-full.getattr('src')"",
+	""mrp"": ""._IKg9.dUCkZ""
+}",NULL,NULL,"1","0",NULL
+"29","bigbasket.com","bigbasket","^https?:\/\/(?:www\.)?bigbasket\.com","https://cdn2.flipshope.com/assets/1677067775806.jpeg",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/pd/"", ""index"": -1, ""subSplit"": ""/"", ""subIndex"": 0}","₹","INR",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1","0",NULL
+"30","blinkit.com","blinkit","^https?:\/\/(?:www\.)?blinkit\.com","https://cdn2.flipshope.com/assets/1677217504661.jpeg",NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/prid/"", ""index"": -1}","₹","INR",NULL,".tw-flex.tw-items-center.tw-gap-1 .tw-text-400.tw-font-bold",".tw-flex.tw-items-center.tw-gap-1 .tw-text-400.tw-font-bold",NULL,".tw-text-500.tw-font-extrabold.tw-line-clamp-50",".ProductCarousel__ImageContainer-sc-11ow1fv-1.hSuOYf img",NULL,NULL,NULL,NULL,"{
+	""title"": "".tw-text-500.tw-font-extrabold.tw-line-clamp-50"",
+	""price"": "".tw-flex.tw-items-center.tw-gap-1 .tw-text-400.tw-font-bold"",
+	""ratting"": "".FnCU0"",
+	""description"": "".__9M1qu"",
+    ""num_rattings"":"".u-flex.u-items-center.ti0_P > span"",
+	""imgurl"": "".ProductCarousel__ImageContainer-sc-11ow1fv-1.hSuOYf img.getattr('src')"",
+	""mrp"": ""._IKg9.dUCkZ""
+}",NULL,NULL,"1","0",NULL
+"31","samsung.com","samsung india","^https?:\/\/(?:www\.)?samsung\.com\/in\/","https://cdn2.flipshope.com/assets/1674553520536.png",NULL,NULL,"₹","INR",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1","0",NULL
+"32","amazon.com","amazon","^https?:\/\/(?:www\.)?amazon\.com",NULL,NULL,"{""isRemoveQuery"": true, ""splitOn"": [""/dp/"", ""/product/"", ""/offer-listing/""], ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 0}","$","USD",NULL,".a-price.aok-align-center.priceToPay",".a-price.aok-align-center.priceToPay",NULL,"#productTitle","#imgTagWrapperId img",NULL,NULL,NULL,NULL,"{ 
+  ""title"": ""#productTitle"",
+  ""price"": "".a-price.aok-align-center.priceToPay,.a-button-selected .a-color-price .twisterSwatchPrice, .a-button-selected .a-color-price, #corePriceDisplay_desktop_feature_div .a-price.priceToPay .a-price-whole, #corePrice_desktop .priceblock_vat_inc_price .a-price[data-a-color='price']:not('.a-size-small') .a-offscreen, #corePrice_desktop :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-span12.a-color-price.a-size-base .a-color-price) > :not(.priceblock_vat_excl_price):not(#price_vat_excl):not(.a-size-small).a-price[data-a-color='price'] .a-offscreen"",
+  ""ratting"": "".a-popover-trigger.a-declarative .a-size-base.a-color-base,#averageCustomerReviews .a-icon-star"",
+  ""description"": ""#productDescription"",
+  ""num_rattings"": ""#acrCustomerReviewText"",
+  ""imgurl"": ""#imgTagWrapperId img.getattr('src'),.a-dynamic-image.a-stretch-vertical img.getattr('src'),#imgBlkFront img.getattr('src')"",
+  ""cat"": "".a-unordered-list.a-horizontal.a-size-small"",
+  ""brand"": "".brand-snapshot-flex-row .a-size-medium.a-text-bold:eq(0), .po-brand .a-size-base.po-break-word:eq(0),.a-unordered-list.a-nostyle.a-vertical.a-spacing-none.detail-bullet-list .a-list-item:eq(2) span:eq(1)"",
+  ""mrp"": "".basisPrice .a-price.a-text-price .a-offscreen,.a-size-small.a-color-secondary.aok-align-center.basisPrice .a-price.a-text-price .a-offscreen:eq(0), .a-size-base.a-color-secondary .a-price.a-text-price .a-offscreen:eq(0)"",
+  ""color"": "".po-color .a-size-base.po-break-word:eq(0),#variation_color_name .selection""
+}",NULL,NULL,"1","0",NULL
+"33","bestbuy.com","bestbuy","^https?:\/\/(?:www\.)?bestbuy\.com",NULL,NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/product/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 1}","$","USD",NULL,".font-sans.text-default.text-style-body-md-400.font-500.text-7.leading-7",".font-sans.text-default.text-style-body-md-400.font-500.text-7.leading-7",NULL,".order-2 h1","img.flex.grow.shrink-none.basis-full.align-items-center.m-auto.object-contain.px-50",NULL,NULL,NULL,NULL,"{
+""title"": "".order-2 h1"",
+""price"": "".font-sans.text-default.text-style-body-md-400.font-500.text-7.leading-7"",
+""imgurl"": ""img.flex.grow.shrink-none.basis-full.align-items-center.m-auto.object-contain.px-50.getattr('src')"",
+""cat"": "".flex.flex-column.pt-300.pb-400"",
+""brand"": "".pt-300.pb-200.description""
+}",NULL,NULL,"1","0",NULL
+"34","target.com","target","^https?:\/\/(?:www\.)?target\.com",NULL,NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 2}","$","USD",NULL,".styles_currentPriceFontSize__Xps20.styles_shouldUseLargerFont__3W2n_",".styles_currentPriceFontSize__Xps20.styles_shouldUseLargerFont__3W2n_",NULL,"h1.styles_ndsHeading__phw6r.styles_fontSize2__rqnzp.styles_x2Margin__ZKMpf",".styles_inlineBlock__2EUaf img",NULL,NULL,NULL,NULL,"{
+""title"": ""h1.styles_ndsHeading__phw6r.styles_fontSize2__rqnzp.styles_x2Margin__ZKMpf"",
+""price"": "".styles_currentPriceFontSize__Xps20.styles_shouldUseLargerFont__3W2n_"",
+""imgurl"": "".styles_inlineBlock__2EUaf img.getattr('src')"",
+""cat"": "".styles_ndsBreadcrumb__H6vq3"",
+""brand"": "".sc-757a5327-0.jDVqhH""
+}",NULL,NULL,"1","0",NULL
+"35","walmart.com","walmart","^https?:\/\/(?:www\.)?walmart\.com",NULL,NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/ip/"", ""index"": 1, ""subSplit"": ""/"", ""subIndex"": 1}
+","$","USD",NULL,".inline-flex.flex-column span",".inline-flex.flex-column span",NULL,"h1.dark-gray.mv1.lh-copy.f4.mh0.b","img.noselect.db",NULL,NULL,NULL,NULL,"{
+""title"": ""h1.dark-gray.mv1.lh-copy.f4.mh0.b"",
+""price"": "".inline-flex.flex-column span"",
+""imgurl"": ""img.noselect.db.getattr('src')"",
+""brand"": "".bg-transparent.bn.lh-solid.pa0.sans-serif.tc.underline.inline-button.mid-gray.pointer.f6""
+}",NULL,NULL,"1","0",NULL
+"36","macys.com","macys","^https?:\/\/(?:www\.)?macys\.com",NULL,NULL,"
+{""isRemoveQuery"": false, ""splitOn"": ""ID="", ""index"": 1, ""subSplit"": ""&"", ""subIndex"": 0}","$","USD",NULL,".price-red.price-lg.temp-price-heavy span span:nth-child(1)",".price-red.price-lg.temp-price-heavy span span:nth-child(1)",NULL,".product-title",".picture-image.loaded.stylitics-shop-similar",NULL,NULL,NULL,NULL,"{
+""title"": "".product-title"",
+""price"": "".price-red.price-lg.temp-price-heavy span span:nth-child(1)"",
+""imgurl"": "".picture-image.loaded.stylitics-shop-similar.getattr('src')"",
+""brand"": "".product-title label a""
+}",NULL,NULL,"1","0",NULL
+"37","savana.com","savana","^https?:\/\/(?:www\.)?savana\.com",NULL,NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/details/"", ""index"": 1, ""subSplit"": ""-"", ""subIndex"": -1}","₹","INR","https://www.savana.com/details/${PID}",,".NewDetail--price--_2yw2Mv div div span",NULL,".Title--title--FSHPbGu",".ub-image.NewImages_M--image--N0B9kSk img",NULL,NULL,NULL,NULL,"{
+  ""title"": "".Title--title--FSHPbGu"",
+  ""price"": "".NewDetail--price--_2yw2Mv div div span"",
+  ""imgurl"": "".ub-image.NewImages_M--image--N0B9kSk img.getattr('src')"",
+  ""all_imgurls"":"".ub-image.NewImages_M--image--N0B9kSk img""
+}",NULL,NULL,"1","0",NULL
+"38","sheinindia.in","sheinindia","^https?:\/\/(?:www\.)?sheinindia\.in",NULL,NULL,"{""isRemoveQuery"": true, ""splitOn"": ""/p/"", ""index"": 1}","₹","INR","https://www.sheinindia.in/product/p/${PID}",".prod-price-section ",".prod-price-section ",NULL,"h1.prod-name",".image-slick-container img",NULL,NULL,NULL,NULL,"{
+  ""title"": ""h1.prod-name"",
+  ""price"": "".prod-price-section"",
+  ""imgurl"": "".image-slick-container img.getattr('src')"",
+  ""all_imgurls"":"".image-slick-container img"",
+  ""description"":"".prod-desc""
+}",NULL,NULL,"1","0",NULL
+"39","shoppersstop.com","shoppersstop","^https?:\/\/(?:www\.)?shoppersstop\.com\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""shoppersstop.com/"",""index"":1,""subSplit"":""/"",""subIndex"":1}","₹","INR","https://www.shoppersstop.com/p/${PID}","h1.mt-3.w-full",".grow.whitespace-nowrap.text-xl.font-medium.leading-5.text-black",NULL,"h1.mt-3.w-full","img.size-full.object-contain",NULL,NULL,NULL,NULL,"{
+ ""title"":""h1.mt-3.w-full"",
+ ""price"":"".grow.whitespace-nowrap.text-xl.font-medium.leading-5.text-black"",
+ ""imgurl"":""img.size-full.object-contain.getattr('src')"",
+ ""all_imgurls"":"".slick-track img"",
+ ""description"":"".accordion-border.w-full""
+}",NULL,NULL,"1","0",NULL
+"40","maxfashion.in","maxfashion","^https?:\/\/(?:www\.)?maxfashion\.in\/in\/en\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/p/"",""index"":1}","₹","INR","https://www.maxfashion.in/in/en/product/p/${PID}","h1.MuiTypography-root.MuiTypography-body1","#details-price div:nth-child(2)",NULL,"h1.MuiTypography-root.MuiTypography-body1","#root-prod-images img",NULL,NULL,NULL,NULL,"{
+ ""title"":""h1.MuiTypography-root.MuiTypography-body1"",
+ ""price"":""#details-price div:nth-child(2)"",
+ ""imgurl"":""#root-prod-images img.getattr('src')"",
+ ""all_imgurls"":""#root-prod-images img"",
+ ""description"":""#details-overview""
+}",NULL,NULL,"1","0",NULL
+"41","urbanic.com","urbanic","^https?:\/\/(?:in\.)?urbanic\.com\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/details/"",""index"":1,""subSplit"":""-"",""subIndex"":-1,""parseInt"":true}","₹","INR","https://in.urbanic.com/details/${PID}",".Title--title--FSHPbGu.urfont",".Price--price--zwo8hKy",NULL,".Title--title--FSHPbGu.urfont",".ub-image.Images_M--image--X9ZYrop img",NULL,NULL,NULL,NULL,"{
+ ""title"":"".Title--title--FSHPbGu.urfont"",
+ ""price"":"".Price--price--zwo8hKy"",
+ ""imgurl"":"".ub-image.Images_M--image--X9ZYrop img.getattr('src')"",
+ ""all_imgurls"":"".ub-image.Images_M--image--X9ZYrop img"",
+ ""description"":"".AboutProduct--aboutProduct--EC05NEu.AboutProduct--hasMoreInfo--ZluB5CW""
+}",NULL,NULL,"1","0",NULL
+"42","hm.com","hm","^https?:\/\/(?:www2\.)?hm\.com\/en_in\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/en_in/"",""index"":1,""subSplit"":""."",""subIndex"":1,""parseInt"":true}","₹","INR","https://www2.hm.com/en_in/productpage.${PID}.html","h1.a52e1b.a47b6d.cddd82",".b5ac2b.a76e30",NULL,"h1.a52e1b.a47b6d.cddd82",".c07e8f.e88600 img",NULL,NULL,NULL,NULL,"{
+ ""title"":""h1.a52e1b.a47b6d.cddd82"",
+ ""price"":"".b5ac2b.a76e30"",
+ ""imgurl"":"".c07e8f.e88600 img.getattr('src')"",
+ ""all_imgurls"":"".c07e8f.e88600 img"",
+ ""description"":"".aa2eff.d14bda.cee707""
+}",NULL,NULL,"1","0",NULL
+"43","zara.com","zara","^https?:\/\/(?:www\.)?zara\.com\/in\/en\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""."",""index"":2,""subSplit"":""-"",""subIndex"":-1,""parseInt"":false}","₹","INR","https://www.zara.com/in/en/g-${PID}.html","h1.product-detail-info__header-name",".money-amount__main",NULL,"h1.product-detail-info__header-name","img.media-image__image.media__wrapper--media",NULL,NULL,NULL,NULL,"{
+ ""title"":""h1.product-detail-info__header-name"",
+ ""price"":"".money-amount__main"",
+ ""imgurl"":""img.media-image__image.media__wrapper--media.getattr('src')"",
+ ""all_imgurls"":""img.media-image__image.media__wrapper--media""
+}",NULL,NULL,"1","0",NULL
+"44","westside.com","westside","^https?:\/\/(?:www\.)?westside\.com\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/products/"",""index"":1}","₹","INR","https://www.westside.com/products/${PID}",".product__title h1","span.price-item.price-item--regular",NULL,".product__title h1",".product__media.media.media--transparent img",NULL,NULL,NULL,NULL,"{
+ ""title"":"".product__title h1"",
+ ""price"":""span.price-item.price-item--regular"",
+ ""imgurl"":"".product__media.media.media--transparent img.getattr('src')"",
+ ""all_imgurls"":"".product__media.media.media--transparent img"",
+ ""description"":"".accordion__content.rte.pdp-description""
+}",NULL,NULL,"1","0",NULL
+"45","nike.com","nike","^https?:\/\/(?:www\.)?nike\.com\/in\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/t/"",""index"":1,""subSplit"":""/"",""subIndex"":0}","₹","INR","https://www.nike.com/in/t/${PID}","#pdp_product_title","#price-container span",NULL,"#pdp_product_title","img.css-17pzig5",NULL,NULL,NULL,NULL,"{
+ ""title"":""#pdp_product_title"",
+ ""price"":""#price-container span"",
+ ""imgurl"":""img.css-17pzig5.getattr('src')"",
+ ""all_imgurls"":"".css-1wg28dk img"",
+ ""description"":""#product-description-container""
+}",NULL,NULL,"1","0",NULL
+"46","puma.com","puma","^https?:\/\/(?:in\.)?puma\.com\/in\/en\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/pd/"",""index"":1,""subSplit"":""/"",""subIndex"":-1}","₹","INR","https://in.puma.com/in/en/pd/product/${PID}","#pdp-product-title",".whitespace-nowrap.text-base.text-red.font-bold",NULL,"#pdp-product-title","#product-gallery .w-full.bg-neutral-0.aspect-1-1",NULL,NULL,NULL,NULL,"{
+ ""title"":""#pdp-product-title"",
+ ""price"":"".whitespace-nowrap.text-base.text-red.font-bold"",
+ ""imgurl"":""#product-gallery .w-full.bg-neutral-0.aspect-1-1.getattr('src')"",
+ ""all_imgurls"":""#product-gallery .w-full.bg-neutral-0.aspect-1-1"",
+ ""description"":"".tw-1rgvuf0.tw-1igwn51.tw-dynr3h.tw-l8cie8.pb-4""
+}",NULL,NULL,"1","0",NULL
+"47","realme.com","realme","^https?:\/\/(?:www\.)?buy\.realme\.com\/in\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/goods/"",""index"":1}","₹","INR",NULL,".goods-title","span.real-price",NULL,".goods-title",".swiper-slide img",NULL,NULL,NULL,NULL,"{
+ ""title"":"".goods-title"",
+ ""price"":""span.real-price"",
+ ""imgurl"":"".swiper-slide img.getattr('src')"",
+ ""all_imgurls"":"".swiper-slide img""
+}",NULL,NULL,"1","0",NULL
+"48","acer.com","acer","^https?:\/\/(?:store\.)?acer\.com\/en-in\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/"",""index"":-1}","₹","INR",NULL,".page-title","#product-price-80705",NULL,".page-title",".fotorama__stage__frame.fotorama__fade-rear img",NULL,NULL,NULL,NULL,"{
+ ""title"":"".page-title"",
+ ""price"":""#product-price-80705"",
+ ""imgurl"":"".fotorama__stage__frame.fotorama__fade-rear img.getattr('src')"",
+ ""description"":"".value.mf-initial ul""
+}",NULL,NULL,"1","0",NULL
+"49","dell.com","dell","^https?:\/\/(?:www\.)?dell\.com\/en-in\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/spd/"",""index"":1,""subSplit"":""/"",""subIndex"":0}","₹","INR",NULL,"#page-title",".mr-5 .h3.font-weight-bold.mb-1.text-nowrap.sale-price",NULL,"#page-title","#mgal-img-1 img",NULL,NULL,NULL,NULL,"{
+ ""title"":""#page-title"",
+ ""price"":"".mr-5 .h3.font-weight-bold.mb-1.text-nowrap.sale-price"",
+ ""imgurl"":""#mgal-img-1 img.getattr('src')"",
+ ""description"":""#tech-spec-container""
+}",NULL,NULL,"1","0",NULL
+"50","lenovo.com","lenovo","^https?:\/\/(?:www\.)?lenovo\.com\/in\/en\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/p/"",""index"":1,""subSplit"":""/"",""subIndex"":-1}","₹","INR",NULL,".product_summary",".price-box p.final-price",NULL,".product_summary",".gallery-container li img",NULL,NULL,NULL,NULL,"{
+ ""title"":"".product_summary"",
+ ""price"":"".price-box p.final-price"",
+ ""imgurl"":"".gallery-container li img.getattr('src')"",
+ ""description"":"".anotherSection""
+}",NULL,NULL,"1","0",NULL
+"51","boat-lifestyle.com","boat","^https?:\/\/(?:www\.)?boat-lifestyle\.com\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/products/"",""index"":1}","₹","INR",NULL,".product-heading-container h1.product-meta__title.heading.h3",".price.price--highlight.price--large",NULL,".product-heading-container h1.product-meta__title.heading.h3",".product__media-item.item img[fetchpriority=""high""]",NULL,NULL,NULL,NULL,"{
+ ""title"":"".product-heading-container h1.product-meta__title.heading.h3"",
+ ""price"":"".price.price--highlight.price--large"",
+ ""imgurl"":"".product__media-item.item img[fetchpriority=""high""].getattr('src')"",
+ ""all_imgurls"":"".product__media-item.item img""
+}",NULL,NULL,"0","0",NULL
+"52","gonoise.com","noise","^https?:\/\/(?:www\.)?gonoise\.com\/",NULL,NULL,"{""isRemoveQuery"":true,""splitOn"":""/products/"",""index"":1}","₹","INR",NULL,"h1.product-title",".product-actual-price",NULL,"h1.product-title",".image.keen-slider__slide img",NULL,NULL,NULL,NULL,"{
+ ""title"":""h1.product-title"",
+ ""price"":"".product-actual-price"",
+ ""imgurl"":"".image.keen-slider__slide img.getattr('src')"",
+ ""all_imgurls"":"".image.keen-slider__slide img""
+}",NULL,NULL,"1","0",NULL

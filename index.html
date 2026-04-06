@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Hunt - Compare Mobile Prices</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+    <div id="app">
+        <header>
+            <div class="container header-content">
+                <div class="logo">
+                    <span class="icon">🔍</span>
+                    <h1>Price <span class="accent">Hunt</span></h1>
+                </div>
+                <div class="search-bar">
+                    <input type="text" id="searchInput" placeholder="Search by model, brand, or features...">
+                    <button id="searchBtn">Search</button>
+                </div>
+                <div class="header-actions">
+                    <div class="stats" id="modelCount">Loading...</div>
+                </div>
+            </div>
+        </header>
+
+        <main class="container">
+            <aside class="sidebar">
+                <div class="filter-section">
+                    <h3>Filters</h3>
+                    
+                    <div class="filter-group">
+                        <label>Brand</label>
+                        <select id="brandFilter">
+                            <option value="all">All Brands</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label>RAM (GB)</label>
+                        <div class="filter-options" id="ramFilter">
+                            <!-- JS will populate these -->
+                        </div>
+                    </div>
+
+                    <div class="filter-group">
+                        <label>Storage (GB)</label>
+                        <div class="filter-options" id="storageFilter">
+                            <!-- JS will populate these -->
+                        </div>
+                    </div>
+
+                    <div class="filter-group">
+                        <label>Price Range</label>
+                        <div class="price-inputs">
+                            <input type="number" id="minPrice" placeholder="Min">
+                            <input type="number" id="maxPrice" placeholder="Max">
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <section class="content">
+                <div class="results-header">
+                    <h2 id="resultsTitle">Popular Mobiles</h2>
+                    <div class="sort-group">
+                        <label>Sort by:</label>
+                        <select id="sortOrder">
+                            <option value="price-asc">Price: Low to High</option>
+                            <option value="price-desc">Price: High to Low</option>
+                            <option value="name">Name (A-Z)</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="productGrid" class="product-grid">
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>Hunting for the best deals...</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Product Modal -->
+        <div id="productModal" class="modal hidden">
+            <div class="modal-overlay"></div>
+            <div class="modal-content">
+                <button class="close-modal">&times;</button>
+                <div id="modalBody">
+                    <!-- Modal content populated by JS -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>
